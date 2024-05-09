@@ -1,2 +1,6 @@
 Hello from file 3
+<<<<<<< HEAD
 Three
+=======
+one
+>>>>>>> team1
